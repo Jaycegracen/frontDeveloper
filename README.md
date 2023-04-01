@@ -16,4 +16,4 @@ Start building your website!
 License: The templates in this repository are released under the MIT license, meaning that they can be used, modified, and distributed for both commercial and non-commercial purposes without any attribution required.
 
 Contributing: The repository welcomes contributions from the community, including new templates and improvements to existing ones. To contribute, simply fork the repository, make your changes, and submit a pull request...
-.
+..
